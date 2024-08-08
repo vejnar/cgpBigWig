@@ -1,5 +1,8 @@
 # CHANGES
 
+## 1.7.0
+* Update to [htslib 1.20](https://github.com/samtools/htslib/releases/tag/1.20)
+
 ## 1.6.0
 
 * Update to [htslib 1.12](https://github.com/samtools/htslib/releases/tag/1.12)
